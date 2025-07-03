@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **hemant.kr.711@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16FZe3r5v44k6Oa5Ls8XjmG6xKMaypWh3/view?usp=drive_link](https://drive.google.com/file/d/16FZe3r5v44k6Oa5Ls8XjmG6xKMaypWh3/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hemant_kr_071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemant_kr_071" height="30" width="40" /></a>
