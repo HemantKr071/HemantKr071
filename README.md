@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hemant_kr_071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemant_kr_071" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hemant-kumar-b1b7a023b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hemant-kumar-b1b7a023b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/heyhemant071/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hemant-kumar-b1b7a023b/" height="30" width="40" /></a>
 <a href="https://peerlist.io/hemantkr071" target="blank">
 <img align="center" src="https://avatars.githubusercontent.com/u/69460546?s=200&v=4" alt="Peerlist" height="40" width="40" />
 </a>
